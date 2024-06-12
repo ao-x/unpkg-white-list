@@ -222,7 +222,8 @@
     "@chevrotain",
     "@orillusion",
     "@sec-ant",
-    "@zxcvbn-ts"
+    "@zxcvbn-ts",
+    "@ao-x"
   ],
   "allowPackages": {
     "surface-plus": {
